@@ -5,7 +5,7 @@ $name = $_POST['name'];
 $email= $_POST['email'];
 $phone= $_POST['phone'];
 
-$to = "pp7590227@gmail.com";
+$to = "contact@darbanresort.com";
 $subject = "Enquiry for Room";
 $txt ="Name = ". $name . "\r\n Email = " . $email . "\r\n Phone =" . $phone;
 $headers = "From: contact@darbanresort.com";
